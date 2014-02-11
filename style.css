@@ -1,0 +1,22 @@
+#score, .message, #record {
+	font-size:40px;
+	position:absolute;
+	text-align: center;
+	width:480px;
+	margin:0 auto;
+}
+
+body
+{
+background-color:#b0c4de;
+text-align: center;
+}
+
+#score { top:100px; left:720px }
+
+.message { top:240px; left:720px}
+
+#record { top:300px; left:720px}
+
+#gameover { color: #F5690C; font-weight:bolder;}
+#start { color: #398F28; }
